@@ -1,0 +1,909 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <list>
+    <resource>
+      <guid>b4658097-7d94-4562-8e7c-43ea39dd5689</guid>
+      <type>0</type>
+      <name>logo.png</name>
+      <path>b4658097-7d94-4562-8e7c-43ea39dd5689.png</path>
+      <size>0.0107603073</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>5166432d-86df-46b1-b176-7e1284d685f5</guid>
+      <type>0</type>
+      <name>flashcard_amb.png</name>
+      <path>5166432d-86df-46b1-b176-7e1284d685f5.png</path>
+      <size>0.00727272034</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1daeb3f9-7f58-46c0-818c-63d769d532d6</guid>
+      <type>1</type>
+      <name>MEACH1900308_COVER.mp4</name>
+      <path>1daeb3f9-7f58-46c0-818c-63d769d532d6.mp4</path>
+      <size>2.01688862</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>a9ffbb9f-eb81-49c1-a63b-98c7ef3489ae</guid>
+      <type>2</type>
+      <name>BUTTON.ogg</name>
+      <path>a9ffbb9f-eb81-49c1-a63b-98c7ef3489ae.ogg</path>
+      <size>0.0117502213</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1c4c8dff-3d14-4f36-93c7-eab12f2ff3f1</guid>
+      <type>2</type>
+      <name>card_flip_02.ogg</name>
+      <path>1c4c8dff-3d14-4f36-93c7-eab12f2ff3f1.ogg</path>
+      <size>0.0174560547</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>c23c88ad-6319-467d-a760-fb10d15cf3ab</guid>
+      <type>0</type>
+      <name>k_star01.png</name>
+      <path>c23c88ad-6319-467d-a760-fb10d15cf3ab.png</path>
+      <size>0.00464630127</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>54c03627-5816-4b16-888f-3395effc457e</guid>
+      <type>0</type>
+      <name>k_star02.png</name>
+      <path>54c03627-5816-4b16-888f-3395effc457e.png</path>
+      <size>0.00416183472</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>aaf1c6f6-ff69-4dba-96cb-97c26399df31</guid>
+      <type>0</type>
+      <name>k_star03.png</name>
+      <path>aaf1c6f6-ff69-4dba-96cb-97c26399df31.png</path>
+      <size>0.004281044</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7ccda575-dbf8-45ef-9373-9ab563e23ad9</guid>
+      <type>0</type>
+      <name>k_star04.png</name>
+      <path>7ccda575-dbf8-45ef-9373-9ab563e23ad9.png</path>
+      <size>0.00456905365</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>dfd87ddc-5e9c-48bb-9a23-e1cfc7496b3a</guid>
+      <type>0</type>
+      <name>f_end_yellow.png</name>
+      <path>dfd87ddc-5e9c-48bb-9a23-e1cfc7496b3a.png</path>
+      <size>0.0165586472</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>3524b8b2-6a1e-453d-95f5-be40585215fb</guid>
+      <type>0</type>
+      <name>f_end_shadow.png</name>
+      <path>3524b8b2-6a1e-453d-95f5-be40585215fb.png</path>
+      <size>0.06262016</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>6563ee3a-ef56-4f19-8345-e31bf3dceaad</guid>
+      <type>1</type>
+      <name>MEACH1900308_BG.mp4</name>
+      <path>6563ee3a-ef56-4f19-8345-e31bf3dceaad.mp4</path>
+      <size>2.50786877</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>bf89aa2d-db59-4550-9dc3-7eea86fb5d1e</guid>
+      <type>2</type>
+      <name>MEACH1900308_END.ogg</name>
+      <path>bf89aa2d-db59-4550-9dc3-7eea86fb5d1e.ogg</path>
+      <size>0.0119695663</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>fa9f83df-cb58-45f5-840a-56352e13b598</guid>
+      <type>2</type>
+      <name>MEACH1900308_COVER.ogg</name>
+      <path>fa9f83df-cb58-45f5-840a-56352e13b598.ogg</path>
+      <size>0.0244283676</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d365c718-efc6-4444-87c9-85273180499d</guid>
+      <type>0</type>
+      <name>roundedrectangle.png</name>
+      <path>d365c718-efc6-4444-87c9-85273180499d.png</path>
+      <size>0.00169086456</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d85d921b-e6ce-4c4b-bc08-bf4bd916d251</guid>
+      <type>0</type>
+      <name>fCSpeakIcon.png</name>
+      <path>d85d921b-e6ce-4c4b-bc08-bf4bd916d251.png</path>
+      <size>0.004796028</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1dce9372-188d-4041-acfa-71ddd713c449</guid>
+      <type>0</type>
+      <name>fCSoundIcon.png</name>
+      <path>1dce9372-188d-4041-acfa-71ddd713c449.png</path>
+      <size>0.0040397644</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>f73bdd2e-2971-437b-9f5e-66b4b61df894</guid>
+      <type>0</type>
+      <name>fCBubble.png</name>
+      <path>f73bdd2e-2971-437b-9f5e-66b4b61df894.png</path>
+      <size>0.00158214569</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e60dc33b-58b7-4cef-8e88-8ffdbfec9736</guid>
+      <type>0</type>
+      <name>fCBubblePoints.png</name>
+      <path>e60dc33b-58b7-4cef-8e88-8ffdbfec9736.png</path>
+      <size>0.000247955322</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>485de95c-72ca-44d5-976a-67b84364522b</guid>
+      <type>0</type>
+      <name>holdDownBubble.png</name>
+      <path>485de95c-72ca-44d5-976a-67b84364522b.png</path>
+      <size>0.006539345</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2085a76b-1994-466a-8cdf-1df4405ecc1c</guid>
+      <type>0</type>
+      <name>MEACH1900308_01a.png</name>
+      <path>2085a76b-1994-466a-8cdf-1df4405ecc1c.png</path>
+      <size>0.07303333</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>a6c97f90-dd70-4d56-88aa-da404bdc7be4</guid>
+      <type>0</type>
+      <name>MEACH1900308_01b.png</name>
+      <path>a6c97f90-dd70-4d56-88aa-da404bdc7be4.png</path>
+      <size>0.111709595</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>49878c59-0dd9-4d49-87d2-9701e8a9debc</guid>
+      <type>0</type>
+      <name>MEACH1900308_02a.png</name>
+      <path>49878c59-0dd9-4d49-87d2-9701e8a9debc.png</path>
+      <size>0.0522995</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1b52c800-9c24-4454-9406-57158806a5d4</guid>
+      <type>0</type>
+      <name>MEACH1900308_02b.png</name>
+      <path>1b52c800-9c24-4454-9406-57158806a5d4.png</path>
+      <size>0.08293247</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>a170daea-adcc-4b0c-8a65-d9a3fe31dc7c</guid>
+      <type>0</type>
+      <name>MEACH1900308_03a.png</name>
+      <path>a170daea-adcc-4b0c-8a65-d9a3fe31dc7c.png</path>
+      <size>0.0871276855</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>eb7fb48b-ecb8-4795-ab03-b1fd6a1ece7c</guid>
+      <type>0</type>
+      <name>MEACH1900308_03b.png</name>
+      <path>eb7fb48b-ecb8-4795-ab03-b1fd6a1ece7c.png</path>
+      <size>0.116927147</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>317ffeeb-a575-4544-bc63-7989f5e931c1</guid>
+      <type>0</type>
+      <name>MEACH1900308_04a.png</name>
+      <path>317ffeeb-a575-4544-bc63-7989f5e931c1.png</path>
+      <size>0.09396744</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>086422df-b5cb-4a08-b53b-befc7430bc45</guid>
+      <type>0</type>
+      <name>MEACH1900308_04b.png</name>
+      <path>086422df-b5cb-4a08-b53b-befc7430bc45.png</path>
+      <size>0.148463249</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>aa733dee-0098-4466-a5a8-40035e9b52b5</guid>
+      <type>0</type>
+      <name>MEACH1900308_05a.png</name>
+      <path>aa733dee-0098-4466-a5a8-40035e9b52b5.png</path>
+      <size>0.08869934</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>bc49412b-8d4d-4a41-9d0d-ea952d0971bd</guid>
+      <type>0</type>
+      <name>MEACH1900308_05b.png</name>
+      <path>bc49412b-8d4d-4a41-9d0d-ea952d0971bd.png</path>
+      <size>0.124132156</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>b0c11ac0-c42e-4312-859e-9a5058dbcbee</guid>
+      <type>0</type>
+      <name>MEACH1900308_06a.png</name>
+      <path>b0c11ac0-c42e-4312-859e-9a5058dbcbee.png</path>
+      <size>0.06001377</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>66d200d8-d493-42ee-9753-f0f33c059e18</guid>
+      <type>0</type>
+      <name>MEACH1900308_06b.png</name>
+      <path>66d200d8-d493-42ee-9753-f0f33c059e18.png</path>
+      <size>0.07568264</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>5ff0c776-1c59-4206-b846-54e8393b0892</guid>
+      <type>0</type>
+      <name>MEACH1900308_07a.png</name>
+      <path>5ff0c776-1c59-4206-b846-54e8393b0892.png</path>
+      <size>0.07032585</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>78b9743c-d738-49dd-aaba-4030e93f5bd6</guid>
+      <type>0</type>
+      <name>MEACH1900308_07b.png</name>
+      <path>78b9743c-d738-49dd-aaba-4030e93f5bd6.png</path>
+      <size>0.08970547</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>89a9dc32-fa36-4a6f-94b1-45519dcd92df</guid>
+      <type>0</type>
+      <name>MEACH1900308_08a.png</name>
+      <path>89a9dc32-fa36-4a6f-94b1-45519dcd92df.png</path>
+      <size>0.06017208</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8f1fbaa7-1a08-4e9a-9930-bf0179ca0b4d</guid>
+      <type>0</type>
+      <name>MEACH1900308_08b.png</name>
+      <path>8f1fbaa7-1a08-4e9a-9930-bf0179ca0b4d.png</path>
+      <size>0.0799560547</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>0ca7bae0-6eb7-4058-8723-84dfffb1e7bd</guid>
+      <type>0</type>
+      <name>MEACH1900308_09a.png</name>
+      <path>0ca7bae0-6eb7-4058-8723-84dfffb1e7bd.png</path>
+      <size>0.046661377</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>17346398-4a5a-46ba-bb2b-032fd4124895</guid>
+      <type>0</type>
+      <name>MEACH1900308_09b.png</name>
+      <path>17346398-4a5a-46ba-bb2b-032fd4124895.png</path>
+      <size>0.055973053</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7dbf403c-8ce7-4deb-81e3-fa3e3e9cfc24</guid>
+      <type>0</type>
+      <name>MEACH1900308_10a.png</name>
+      <path>7dbf403c-8ce7-4deb-81e3-fa3e3e9cfc24.png</path>
+      <size>0.0516624451</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>58a3b71e-f11b-4cb2-aa5f-291437450a2e</guid>
+      <type>0</type>
+      <name>MEACH1900308_10b.png</name>
+      <path>58a3b71e-f11b-4cb2-aa5f-291437450a2e.png</path>
+      <size>0.08242035</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>4089983e-074e-4c1c-8774-2f821c77965f</guid>
+      <type>0</type>
+      <name>MEACH1900308_11a.png</name>
+      <path>4089983e-074e-4c1c-8774-2f821c77965f.png</path>
+      <size>0.0692834854</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>28f03238-080d-4761-b363-a86aab44a253</guid>
+      <type>0</type>
+      <name>MEACH1900308_11b.png</name>
+      <path>28f03238-080d-4761-b363-a86aab44a253.png</path>
+      <size>0.103516579</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>fcbb125d-8c03-4312-84d4-99d31b0db816</guid>
+      <type>0</type>
+      <name>MEACH1900308_12a.png</name>
+      <path>fcbb125d-8c03-4312-84d4-99d31b0db816.png</path>
+      <size>0.0803117752</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>afb634f2-2444-4cf3-a96f-7f7520b21eb9</guid>
+      <type>0</type>
+      <name>MEACH1900308_12b.png</name>
+      <path>afb634f2-2444-4cf3-a96f-7f7520b21eb9.png</path>
+      <size>0.08684349</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e83513bf-60e3-4ebb-8319-fa9a9d18e76d</guid>
+      <type>0</type>
+      <name>MEACH1900308_13a.png</name>
+      <path>e83513bf-60e3-4ebb-8319-fa9a9d18e76d.png</path>
+      <size>0.0554046631</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7a27e510-1871-439b-80f7-4065a4e7a62a</guid>
+      <type>0</type>
+      <name>MEACH1900308_13b.png</name>
+      <path>7a27e510-1871-439b-80f7-4065a4e7a62a.png</path>
+      <size>0.07030773</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>53ddf4c9-e745-4d10-93d7-0c3f6b4a1e16</guid>
+      <type>0</type>
+      <name>MEACH1900308_14a.png</name>
+      <path>53ddf4c9-e745-4d10-93d7-0c3f6b4a1e16.png</path>
+      <size>0.0808591843</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>466b82c9-b3be-4ce8-a899-d4b83cbf0c1c</guid>
+      <type>0</type>
+      <name>MEACH1900308_14b.png</name>
+      <path>466b82c9-b3be-4ce8-a899-d4b83cbf0c1c.png</path>
+      <size>0.0966272354</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>687e3975-3959-4f4a-bb0b-69323931bada</guid>
+      <type>0</type>
+      <name>MEACH1900308_15a.png</name>
+      <path>687e3975-3959-4f4a-bb0b-69323931bada.png</path>
+      <size>0.0351295471</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1f5d2521-f57f-4597-80b6-70acff56a3ed</guid>
+      <type>0</type>
+      <name>MEACH1900308_15b.png</name>
+      <path>1f5d2521-f57f-4597-80b6-70acff56a3ed.png</path>
+      <size>0.04069519</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>ed6923eb-f36c-4fa0-a4a1-3a4fed1212e3</guid>
+      <type>0</type>
+      <name>MEACH1900308_16a.png</name>
+      <path>ed6923eb-f36c-4fa0-a4a1-3a4fed1212e3.png</path>
+      <size>0.03860569</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>83a43ac7-8ac7-4a16-986d-9ea8316204c8</guid>
+      <type>0</type>
+      <name>MEACH1900308_16b.png</name>
+      <path>83a43ac7-8ac7-4a16-986d-9ea8316204c8.png</path>
+      <size>0.0443115234</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7b35eecd-3dbf-46d0-9965-08d16cbbbbac</guid>
+      <type>0</type>
+      <name>MEACH1900308_17a.png</name>
+      <path>7b35eecd-3dbf-46d0-9965-08d16cbbbbac.png</path>
+      <size>0.0515975952</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>05b8ff00-f8f3-4172-a502-6b93d45b20fc</guid>
+      <type>0</type>
+      <name>MEACH1900308_17b.png</name>
+      <path>05b8ff00-f8f3-4172-a502-6b93d45b20fc.png</path>
+      <size>0.073176384</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>3411946a-d6ec-46ee-808c-3c8956a43e73</guid>
+      <type>0</type>
+      <name>MEACH1900308_18a.png</name>
+      <path>3411946a-d6ec-46ee-808c-3c8956a43e73.png</path>
+      <size>0.0481977463</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e3460f82-7cf8-4bc2-aece-d2a4ec7ee70e</guid>
+      <type>0</type>
+      <name>MEACH1900308_18b.png</name>
+      <path>e3460f82-7cf8-4bc2-aece-d2a4ec7ee70e.png</path>
+      <size>0.06827736</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>0fd1f3f9-f531-445d-912d-49f60aa1e104</guid>
+      <type>0</type>
+      <name>MEACH1900308_19a.png</name>
+      <path>0fd1f3f9-f531-445d-912d-49f60aa1e104.png</path>
+      <size>0.07337284</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e8330745-226a-4dea-88d6-df284cba8f48</guid>
+      <type>0</type>
+      <name>MEACH1900308_19b.png</name>
+      <path>e8330745-226a-4dea-88d6-df284cba8f48.png</path>
+      <size>0.106949806</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7720c832-00a0-4c51-b911-44c957040aaa</guid>
+      <type>0</type>
+      <name>MEACH1900308_20a.png</name>
+      <path>7720c832-00a0-4c51-b911-44c957040aaa.png</path>
+      <size>0.053147316</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>853e3d59-7c93-47ee-a0ae-10898dd99446</guid>
+      <type>0</type>
+      <name>MEACH1900308_20b.png</name>
+      <path>853e3d59-7c93-47ee-a0ae-10898dd99446.png</path>
+      <size>0.0872135162</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>1935a9e2-71ad-4e2f-97e7-1b06c1d7f827</guid>
+      <type>0</type>
+      <name>MEACH1900308_21a.png</name>
+      <path>1935a9e2-71ad-4e2f-97e7-1b06c1d7f827.png</path>
+      <size>0.09342384</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>f653ffb1-02a0-4ec1-99cf-727237f72630</guid>
+      <type>0</type>
+      <name>MEACH1900308_21b.png</name>
+      <path>f653ffb1-02a0-4ec1-99cf-727237f72630.png</path>
+      <size>0.141186714</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d7f9e56a-90bf-43bf-ad32-286797fcb70b</guid>
+      <type>0</type>
+      <name>MEACH1900308_22a.png</name>
+      <path>d7f9e56a-90bf-43bf-ad32-286797fcb70b.png</path>
+      <size>0.2172842</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8dbf6ee5-0d0a-4381-a57d-7f2f9e723f7d</guid>
+      <type>0</type>
+      <name>MEACH1900308_22b.png</name>
+      <path>8dbf6ee5-0d0a-4381-a57d-7f2f9e723f7d.png</path>
+      <size>0.198384285</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>276450b9-a797-4dfb-8e68-4ce089b2844a</guid>
+      <type>0</type>
+      <name>MEACH1900308_bg_LI.jpg</name>
+      <path>276450b9-a797-4dfb-8e68-4ce089b2844a.jpg</path>
+      <size>0.118120193</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>a632acb1-160a-4a6b-975b-20df59de65e1</guid>
+      <type>2</type>
+      <name>MEACH1900308_01.ogg</name>
+      <path>a632acb1-160a-4a6b-975b-20df59de65e1.ogg</path>
+      <size>0.0151443481</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8167a2a6-530f-4d04-850c-d617c9a45650</guid>
+      <type>2</type>
+      <name>MEACH1900308_02.ogg</name>
+      <path>8167a2a6-530f-4d04-850c-d617c9a45650.ogg</path>
+      <size>0.0163450241</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>554ff755-dbdc-4159-b61b-928b1e9409c8</guid>
+      <type>2</type>
+      <name>MEACH1900308_03.ogg</name>
+      <path>554ff755-dbdc-4159-b61b-928b1e9409c8.ogg</path>
+      <size>0.0210266113</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>95b8a3b5-ed46-4ae9-a016-a9515a8d3204</guid>
+      <type>2</type>
+      <name>MEACH1900308_04.ogg</name>
+      <path>95b8a3b5-ed46-4ae9-a016-a9515a8d3204.ogg</path>
+      <size>0.0210046768</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>27bbb634-749e-41dc-a595-f97ca9dcaf2f</guid>
+      <type>2</type>
+      <name>MEACH1900308_05.ogg</name>
+      <path>27bbb634-749e-41dc-a595-f97ca9dcaf2f.ogg</path>
+      <size>0.0240020752</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>19113c51-593e-4302-9486-71629fbb8fc4</guid>
+      <type>2</type>
+      <name>MEACH1900308_06.ogg</name>
+      <path>19113c51-593e-4302-9486-71629fbb8fc4.ogg</path>
+      <size>0.0209579468</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8486e675-1746-4eaf-acc7-c566eb48ad33</guid>
+      <type>2</type>
+      <name>MEACH1900308_07.ogg</name>
+      <path>8486e675-1746-4eaf-acc7-c566eb48ad33.ogg</path>
+      <size>0.01683712</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>25543ba5-823b-4517-afcb-f1f143d6abf4</guid>
+      <type>2</type>
+      <name>MEACH1900308_08.ogg</name>
+      <path>25543ba5-823b-4517-afcb-f1f143d6abf4.ogg</path>
+      <size>0.014957428</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e142d54f-01b4-491b-8efb-8b4ac91d97e6</guid>
+      <type>2</type>
+      <name>MEACH1900308_09.ogg</name>
+      <path>e142d54f-01b4-491b-8efb-8b4ac91d97e6.ogg</path>
+      <size>0.0211830139</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d63d70d2-8a06-4cca-bbf5-3ac6ab785e5b</guid>
+      <type>2</type>
+      <name>MEACH1900308_10.ogg</name>
+      <path>d63d70d2-8a06-4cca-bbf5-3ac6ab785e5b.ogg</path>
+      <size>0.0225954056</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8c777738-f95a-4b72-a4c4-943873d9671e</guid>
+      <type>2</type>
+      <name>MEACH1900308_11.ogg</name>
+      <path>8c777738-f95a-4b72-a4c4-943873d9671e.ogg</path>
+      <size>0.0217924118</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d8936fa5-a159-4e3b-98a7-67ae8577d276</guid>
+      <type>2</type>
+      <name>MEACH1900308_12.ogg</name>
+      <path>d8936fa5-a159-4e3b-98a7-67ae8577d276.ogg</path>
+      <size>0.0175066</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>932e132a-e03a-4b91-b00e-03e3a355bb52</guid>
+      <type>2</type>
+      <name>MEACH1900308_13.ogg</name>
+      <path>932e132a-e03a-4b91-b00e-03e3a355bb52.ogg</path>
+      <size>0.0210256577</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>9126b714-5051-40ae-ba3b-77501aad839d</guid>
+      <type>2</type>
+      <name>MEACH1900308_14.ogg</name>
+      <path>9126b714-5051-40ae-ba3b-77501aad839d.ogg</path>
+      <size>0.0199584961</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2c8a79b1-d742-4730-a7bf-6dbea92561cc</guid>
+      <type>2</type>
+      <name>MEACH1900308_15.ogg</name>
+      <path>2c8a79b1-d742-4730-a7bf-6dbea92561cc.ogg</path>
+      <size>0.016046524</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>8c6a935c-d902-4f50-b694-700bbe02a992</guid>
+      <type>2</type>
+      <name>MEACH1900308_16.ogg</name>
+      <path>8c6a935c-d902-4f50-b694-700bbe02a992.ogg</path>
+      <size>0.014295578</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>3640027d-da0c-4641-a5a3-550e253f2364</guid>
+      <type>2</type>
+      <name>MEACH1900308_17.ogg</name>
+      <path>3640027d-da0c-4641-a5a3-550e253f2364.ogg</path>
+      <size>0.021065712</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2fabf099-5de8-4015-b5b9-edcb80ee3895</guid>
+      <type>2</type>
+      <name>MEACH1900308_18.ogg</name>
+      <path>2fabf099-5de8-4015-b5b9-edcb80ee3895.ogg</path>
+      <size>0.020772934</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2c4bf029-7bfe-437b-a8c7-f023cead8304</guid>
+      <type>2</type>
+      <name>MEACH1900308_19.ogg</name>
+      <path>2c4bf029-7bfe-437b-a8c7-f023cead8304.ogg</path>
+      <size>0.0214929581</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2828e2c6-04cc-41e7-a523-7bc827ca9d80</guid>
+      <type>2</type>
+      <name>MEACH1900308_20.ogg</name>
+      <path>2828e2c6-04cc-41e7-a523-7bc827ca9d80.ogg</path>
+      <size>0.0170507431</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>35337e5e-6c2d-4552-835c-41f4fa3c01b5</guid>
+      <type>2</type>
+      <name>MEACH1900308_21.ogg</name>
+      <path>35337e5e-6c2d-4552-835c-41f4fa3c01b5.ogg</path>
+      <size>0.0182294846</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>2fc85263-7e7d-41a9-963d-9ae870968d12</guid>
+      <type>2</type>
+      <name>MEACH1900308_22.ogg</name>
+      <path>2fc85263-7e7d-41a9-963d-9ae870968d12.ogg</path>
+      <size>0.01791668</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>d776f559-063b-4f9f-a3bf-0587799073a6</guid>
+      <type>2</type>
+      <name>MEACH1900308_23.ogg</name>
+      <path>d776f559-063b-4f9f-a3bf-0587799073a6.ogg</path>
+      <size>0.0261249542</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>c41964dd-0c2b-4f5e-88a7-277bba88e55f</guid>
+      <type>2</type>
+      <name>MEACH1900308_24.ogg</name>
+      <path>c41964dd-0c2b-4f5e-88a7-277bba88e55f.ogg</path>
+      <size>0.0217590332</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>72a7e151-ef52-43f6-8a9d-996cc86a4820</guid>
+      <type>2</type>
+      <name>MEACH1900308_25.ogg</name>
+      <path>72a7e151-ef52-43f6-8a9d-996cc86a4820.ogg</path>
+      <size>0.03463936</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>88d93098-a25e-4f2e-b01b-adbf4f9a52c7</guid>
+      <type>2</type>
+      <name>MEACH1900308_26.ogg</name>
+      <path>88d93098-a25e-4f2e-b01b-adbf4f9a52c7.ogg</path>
+      <size>0.0167970657</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>956bbcc0-8032-46e9-b091-96ea9eacf41f</guid>
+      <type>2</type>
+      <name>MEACH1900308_27.ogg</name>
+      <path>956bbcc0-8032-46e9-b091-96ea9eacf41f.ogg</path>
+      <size>0.0168743134</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>81b99b37-222d-4868-8fda-2158354f26aa</guid>
+      <type>2</type>
+      <name>MEACH1900308_28.ogg</name>
+      <path>81b99b37-222d-4868-8fda-2158354f26aa.ogg</path>
+      <size>0.0221652985</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>4870ee91-7e23-4348-9e84-bdfee5c94691</guid>
+      <type>2</type>
+      <name>MEACH1900308_29.ogg</name>
+      <path>4870ee91-7e23-4348-9e84-bdfee5c94691.ogg</path>
+      <size>0.0212049484</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>cbf27ae8-5d9d-4e99-9538-14bc431cbce9</guid>
+      <type>2</type>
+      <name>MEACH1900308_30.ogg</name>
+      <path>cbf27ae8-5d9d-4e99-9538-14bc431cbce9.ogg</path>
+      <size>0.0158233643</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>989f32d3-91a5-4664-9fbe-157ee15ad03a</guid>
+      <type>0</type>
+      <name>MEACH1900308_23a.png</name>
+      <path>989f32d3-91a5-4664-9fbe-157ee15ad03a.png</path>
+      <size>0.199801445</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>9aa754ad-78f7-4c33-b32b-d3dfb7c74f95</guid>
+      <type>0</type>
+      <name>MEACH1900308_23b.png</name>
+      <path>9aa754ad-78f7-4c33-b32b-d3dfb7c74f95.png</path>
+      <size>0.246688843</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>c03a4574-93d6-495d-9f20-95590c8f3699</guid>
+      <type>0</type>
+      <name>MEACH1900308_24a.png</name>
+      <path>c03a4574-93d6-495d-9f20-95590c8f3699.png</path>
+      <size>0.206207275</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>fb5c9be8-552f-44d6-b8f0-054e3e4383f0</guid>
+      <type>0</type>
+      <name>MEACH1900308_24b.png</name>
+      <path>fb5c9be8-552f-44d6-b8f0-054e3e4383f0.png</path>
+      <size>0.2653103</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>47dd812e-fbce-4aba-919a-aefcdf32e859</guid>
+      <type>0</type>
+      <name>MEACH1900308_25a.png</name>
+      <path>47dd812e-fbce-4aba-919a-aefcdf32e859.png</path>
+      <size>0.0875997543</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>ca40bc17-cab8-4b08-a044-8ad7ee942165</guid>
+      <type>0</type>
+      <name>MEACH1900308_25b.png</name>
+      <path>ca40bc17-cab8-4b08-a044-8ad7ee942165.png</path>
+      <size>0.0947580338</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>aa1fbba1-f667-4270-ae2b-3839fc32affd</guid>
+      <type>0</type>
+      <name>MEACH1900308_26a.png</name>
+      <path>aa1fbba1-f667-4270-ae2b-3839fc32affd.png</path>
+      <size>0.1308937</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>f115858c-5a85-4152-9c03-af9be756c88f</guid>
+      <type>0</type>
+      <name>MEACH1900308_26b.png</name>
+      <path>f115858c-5a85-4152-9c03-af9be756c88f.png</path>
+      <size>0.139897346</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>206d96e3-b84d-4fd1-910e-62fd6c3801e6</guid>
+      <type>0</type>
+      <name>MEACH1900308_27a.png</name>
+      <path>206d96e3-b84d-4fd1-910e-62fd6c3801e6.png</path>
+      <size>0.0757303238</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>03bc1d78-3bfa-42f3-a6ae-09a3127b0eb7</guid>
+      <type>0</type>
+      <name>MEACH1900308_27b.png</name>
+      <path>03bc1d78-3bfa-42f3-a6ae-09a3127b0eb7.png</path>
+      <size>0.09307957</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>df4aee73-c363-4f4f-9f1b-305b3f58850e</guid>
+      <type>0</type>
+      <name>MEACH1900308_28a.png</name>
+      <path>df4aee73-c363-4f4f-9f1b-305b3f58850e.png</path>
+      <size>0.05457115</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>30eff23b-aff0-4a66-ad88-50d0ab663f48</guid>
+      <type>0</type>
+      <name>MEACH1900308_28b.png</name>
+      <path>30eff23b-aff0-4a66-ad88-50d0ab663f48.png</path>
+      <size>0.06580353</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>c945903f-c173-4223-81ac-68dfff2c4b47</guid>
+      <type>0</type>
+      <name>MEACH1900308_29a.png</name>
+      <path>c945903f-c173-4223-81ac-68dfff2c4b47.png</path>
+      <size>0.07806587</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>377a0264-8245-4ce1-9ed9-252d7595d038</guid>
+      <type>0</type>
+      <name>MEACH1900308_29b.png</name>
+      <path>377a0264-8245-4ce1-9ed9-252d7595d038.png</path>
+      <size>0.102059364</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>e4c6d069-d424-49c7-89bc-d754d8fc1f2c</guid>
+      <type>0</type>
+      <name>MEACH1900308_30a.png</name>
+      <path>e4c6d069-d424-49c7-89bc-d754d8fc1f2c.png</path>
+      <size>0.08823013</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>7a04331e-13e1-4580-9b18-f5bf03474612</guid>
+      <type>0</type>
+      <name>MEACH1900308_30b.png</name>
+      <path>7a04331e-13e1-4580-9b18-f5bf03474612.png</path>
+      <size>0.120583534</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>438a2dba-de39-4796-bc42-a69972954f54</guid>
+      <type>0</type>
+      <name>bookr_logo_white.png</name>
+      <path>438a2dba-de39-4796-bc42-a69972954f54.png</path>
+      <size>0.0125408173</size>
+      <settings />
+    </resource>
+    <resource>
+      <guid>650ce8f0-63ca-4c77-8d79-2c16a587baf7</guid>
+      <type>0</type>
+      <name>FC_end_box_green.png</name>
+      <path>650ce8f0-63ca-4c77-8d79-2c16a587baf7.png</path>
+      <size>0.0171604156</size>
+      <settings />
+    </resource>
+  </list>
+</resources>
